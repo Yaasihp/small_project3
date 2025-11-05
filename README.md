@@ -25,13 +25,3 @@ The dataset is numeric, clean, and contains binary + continuous features.
 
 ---
 
-## Files
-- `main_spark_ml.py` — PySpark model pipeline + evaluation
-- `screenshots/` — Spark UI + terminal output
-- `report/` — Project write-up (optional)
-
----
-
-## How to Run
-
-### Distributed (2-VM cluster)
